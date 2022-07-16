@@ -1,0 +1,19 @@
+[TEAM]
+Eric Corona, JHED: ecorona2
+Siyu Li, JHED: sli187
+Jessi (Jiaxin) Luo, JHED: jluo30
+
+[DESIGN]
+The major part of main.cpp is pretty direct. First determine whether the current game is in a special situation (in_check, in_stalemate, or in_mate). If it is, inform the user with a message or end program. If it’s not, get the user’s next command. Then, do make_move according to the input positions, which throw exceptions according to each error case.
+
+In Game.cpp, make_move throws an exception if the move is not allowed, then checks for promotion, and (if all checks are passed) the move is made by removing the old piece and adding it to the new position. After making the move, turns are switched.
+
+The checking of three special situations, in_check, in_stalemate, or in_mate,  all use a helper function under attack, which checks whether the king of the specified player (by boolean variable white) is under attack by any enemy piece. UnderAttack returns a list of enemy pieces that could capture the current player’s king (the list is empty if the king is safe). It works by checking whether any enemy pieces have a legal move (later) to the king. The difference between in_mate and in_check is whether the attack can be solved, so we created a helper method SolveAttack for this functionality. It works by checking if any movement of any of the current player’s pieces can make their king not be in_check, and it returns a boolean variable. in_stalemate checks that there are any legal moves that can be made by any piece on board.
+
+We check legal moves through helper functions MoveLegalCheck and MoveLegalCheckForAttack. They check for exceptions but return a boolean variable, so there’s a try catch logic. Which exception should be included in each move legal check should be considered very carefully because not all exceptions are needed at any given time. For example, “piece color and turn do not match” exception shouldn’t be included in UnderAttack, because it’s testing whether enemy pieces have legal move to the king and the start position isn’t my piece.
+
+[COMPLETENESS]
+100% working. We tested it with all in_check, in_stalemate, and in_mate tests that we created and passed all autograder tests. All pieces move and capture correctly. Good project, hope for good grades. 
+
+[OTHER]
+.cpp file for each chess piece included only restrictions that’s set solely for the piece. Not all exceptions are handled in the throwException function because not all exceptions should be checked every time we want to check whether it’s a legalMove. We messed up with it first and it took some time to figure it out.

@@ -1,0 +1,6 @@
+Name: Ting Li JHED: tli79
+Name: Jiaxin(Jessi) Luo JHED: jluo30
+For this midterm project, Ting wrote on the Makefile, a small fraction of binary i/o functions in io.c, and adsr_envelope, compute_pan, apply gain functions in the wave.c function. Ting completed the implementation of render_tone.c 
+and assisted in the debugging and shortened render_song.c. Debug render_echo.c.
+
+Jessi completed io.c (except for the first function), render_song.c, rend_echo.c, three wave-generate and mix_in functions of wave.c, and the testing and debugging of all .c file. Also added comments and more helper methods.

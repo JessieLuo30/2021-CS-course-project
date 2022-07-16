@@ -1,0 +1,8 @@
+//Jiaxin(Jessi) Luo
+//JHED: jluo30
+
+I have two data base, vector<Name> name_db and map<Name, PhoneNumberCollection> phone_db, the first one stores only names and the second stores name and all of its matching phone numbers. I use a struct for Name that store last and first name. Since a person can have multiple phone numbers of different types, it’s necessary to build a mapping between type and numbers. I use a string to represent number and map each phone number type to a number from 0 to 4 (using switchType() method) because I think it’s more convenient for me to look at. The valid() function is built to determine whether the string phone number is in a valid phone number format.
+
+The program performs different moves based on different input command. I use while loop such that the program doesn’t stop as long as there’s another user input command. The if-else statement is used to tangle each command case. Most of my helper functions involved with different command, for example loadFile is R, inputFile is S, etc. I pulled them out because I don’t want the main method to be too long.
+
+Smart thing: I use if-else instead of switch so I don’t have any trouble with getting errors because I make new variable in switch cases.

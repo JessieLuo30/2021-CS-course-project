@@ -1,0 +1,529 @@
+commit 2b1c04987eda96da07a8fa8cba1b134c1011d447
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Fri Apr 30 13:17:24 2021 -0400
+
+    Fixes minor error in make move, which prevented captures from working right.
+
+commit 553d419db748aa7d0d24ec83569ee9db59e1fa4e
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Apr 30 12:31:05 2021 -0400
+
+    change exception order
+
+commit e482d916fff9290e985ced6bf12be0affc2e2e91
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Thu Apr 29 18:49:31 2021 -0400
+
+    Slightly modified README
+
+commit 009ad399f7b140347cfceaea786d454951140d47
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 29 18:06:01 2021 -0400
+
+    better styling, more comments
+
+commit c681bea1fd6df10999f283517f93ccfa99164ecc
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 29 16:56:05 2021 -0400
+
+    add reame and names
+
+commit 4fff4d8b5cc88961f2dadce7c1485de6c4bd03d2
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 29 01:26:21 2021 -0400
+
+    change nameapce style
+
+commit 38efca1fe6134814763dcd57553cc12e35c53e25
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Thu Apr 29 00:36:26 2021 -0400
+
+    Adds check before entering pawn promotion function to improve efficiency.
+
+commit 23409ce2762513594998e4c5747f461a7c7a99f2
+Author: ecorona2 <77905558+ecorona2@users.noreply.github.com>
+Date:   Wed Apr 28 22:21:40 2021 -0600
+
+    Added Chess UML Diagram
+    
+    Still need to update the diagram with the relationship Exception has with the other classes.
+
+commit 8319f38e575a3559ee8465bdd0b1008ddd0c5da1
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Wed Apr 28 21:58:54 2021 -0400
+
+    Removes unnecessary code and comments both game and board member functions.
+
+commit 13e3c66ba26153ae4e34135e2f8998ebd9729f57
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Wed Apr 28 16:15:08 2021 -0400
+
+    Adds comments and removes unneccessary lines in the different piece classes.
+
+commit cda3fa553238ea7fa7df996bd2510b148b9f7f60
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 13:05:16 2021 -0400
+
+    remove extra lines
+
+commit 86f2c862f4c4c07c549932099d8b95b4d3b1b968
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 12:11:25 2021 -0400
+
+    should work version
+
+commit f36a9e31bddfb681aecaf20890f92782e18ed8ed
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 12:06:47 2021 -0400
+
+    one error case left!
+
+commit f0cadcb13905a9b75cf659197f8c72b7a485b3b6
+Author: Siyu Li <sli187@jh.edu>
+Date:   Wed Apr 28 11:29:08 2021 -0400
+
+    change a form for solveattack for debuggin
+
+commit aa8f4ec226c1584b51f53318536a223ea27f5016
+Author: Siyu Li <sli187@jh.edu>
+Date:   Wed Apr 28 10:57:22 2021 -0400
+
+    abs() and adjacent two pieces for clear path
+
+commit 0eca331f34cfe0bf88544a4a7557a340a0a1168b
+Author: Siyu Li <sli187@jh.edu>
+Date:   Wed Apr 28 10:48:25 2021 -0400
+
+    adding abs to diagonal check for clear path
+
+commit 320036f17b13c8e427208bb3abd870d12d57fd58
+Author: Siyu Li <sli187@jh.edu>
+Date:   Wed Apr 28 10:41:52 2021 -0400
+
+    solving segmentation fault for is_white()
+
+commit 7b702c56a0994062130c81934d3425cafa7a4b12
+Author: Siyu Li <sli187@jh.edu>
+Date:   Wed Apr 28 07:11:09 2021 -0400
+
+    fixed Queen Movement
+
+commit bfc532b08d0e1f04a14c7db6e7afc4b91262a9ed
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 04:22:44 2021 -0400
+
+    all checkmate.txt work except checkmate_three.txt
+
+commit 43794524cbefc25925c306adb5993fc45fe637ee
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 03:38:47 2021 -0400
+
+    debugging
+
+commit 9eb08292342c51e64ebf8628964d903f92a3188b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 28 01:57:21 2021 -0400
+
+    pass all in check cases
+
+commit 0e2a4d6c5ed0f8863270b164bc3c6c0d34ebd6fa
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 18:42:33 2021 -0400
+
+    ?
+
+commit 3cad783d4144de0d749343e478a32acef36ae687
+Merge: 7daf544 a1e329d
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 17:59:10 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-final-ecorona2-jluo30-sli187
+
+commit 7daf5443cc855559d4da4e599c341ab174fa331b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 17:56:38 2021 -0400
+
+    fix bug in solve attack
+
+commit a1e329d378f0690830d9a9583b4202c43b128102
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Tue Apr 27 17:53:09 2021 -0400
+
+    Removed newline accidentally added to save command.
+
+commit 462b096fad89afbfc4452123253e75742463f87d
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Tue Apr 27 17:43:44 2021 -0400
+
+    Implements pawn promotion to queen once pawns reach the end of the board in a Board member function. Tweaks other aspects, like board color.
+
+commit 8edd5ba884331c985af57cd3fef026a96b1fcac4
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 17:18:13 2021 -0400
+
+    fix small bug in pawn
+
+commit b0bd89786bb9642407795cbb4a700ea6fb2cf6de
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Tue Apr 27 15:21:44 2021 -0400
+
+    Adds multiple tests for cases that should display checkmate, check or stalemate.
+
+commit aa5f4ddc4bab1353beb617275e8e0405c20ac283
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 12:31:33 2021 -0400
+
+    get rid of unwanted
+
+commit 11945b7d0845b1482d0b9e28c5e9badce57ef432
+Author: Siyu Li <sli187@jh.edu>
+Date:   Tue Apr 27 09:41:08 2021 -0400
+
+    fixed all  valgrind leak for copied game and board
+
+commit f4e57f8bed49948b66cee1b06430012a3ce48615
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 09:34:02 2021 -0400
+
+    solve pawn 1/2 step buggit add .
+
+commit acd9a39d0799cc0f66676cd875f60ea78fa5710a
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 08:53:24 2021 -0400
+
+    fix stalemate
+
+commit 7428c00858242bb165e06236588c4580532203d6
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Apr 27 02:40:09 2021 -0400
+
+    capture works
+
+commit 5c960dacb0e3fcf6be6cd223028bdd5ed6d03ca2
+Author: Siyu Li <sli187@jh.edu>
+Date:   Tue Apr 27 00:58:38 2021 -0400
+
+    tiny fixed,solving memory leak for Board, having memory leak for Game
+
+commit 92a9f4bf7940c7584906240fbd26857f1987b5b8
+Author: Siyu Li <sli187@jh.edu>
+Date:   Tue Apr 27 00:49:10 2021 -0400
+
+    solving memory leak for Board, having memory leak for Game
+
+commit dc19ce70904fbba284667c3c85b62f1f66ea550a
+Author: Siyu Li <sli187@jh.edu>
+Date:   Tue Apr 27 00:34:54 2021 -0400
+
+    add destructor, solving memory leak
+
+commit 28e129819627c2d87c7a10a3a4ab316890fcc7bb
+Author: Siyu Li <sli187@jh.edu>
+Date:   Tue Apr 27 00:10:22 2021 -0400
+
+    fixed solveattack
+
+commit aadce01c3a644fe9930e77534906101d9efb980b
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Mon Apr 26 23:22:07 2021 -0400
+
+    Fixes pawn movement error. Able to move pawns.
+
+commit ac04737968c6c82556023cbd07b653529541539a
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Apr 26 20:21:08 2021 -0400
+
+    error in king.cpp
+
+commit 64ad42b69b814e1387f519158ab2db29b29dae96
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Apr 26 19:26:09 2021 -0400
+
+    can run
+
+commit 30dc4c7b52f83c33ffc00db86d88850008f38c00
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Apr 26 18:59:53 2021 -0400
+
+    minor bugs in pawn.cpp and game.cpp
+
+commit fd1c40e075012f17394ec2e1e994a010baa11289
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Apr 26 18:18:30 2021 -0400
+
+    solve move bug, no seg error
+
+commit a5de86a8e000e39a779e008147cf6d910f3fb7f3
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Mon Apr 26 15:50:59 2021 -0400
+
+    Modified how checks in make move and throw exception were being made. Also changes how the King's moves are checked as legal
+
+commit 19411d90391601ca43d8dcf8d593e8057868e536
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Mon Apr 26 12:48:38 2021 -0400
+
+    Fixes bugs related to load and save commands. Work as intended now.
+
+commit af53d4b105bbd48fe584d35727f11ffdf82240c0
+Author: Siyu Li <sli187@jh.edu>
+Date:   Mon Apr 26 12:14:20 2021 -0400
+
+    tiny change for copy board in solve attack
+
+commit 5442ef137ad716461af80759a32e64a89bd2bc73
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Apr 26 11:20:55 2021 -0400
+
+    fix pawn piece firstMove
+
+commit aa71a91243584f59f9a037b4494d3f921d307264
+Author: Siyu Li <sli187@jh.edu>
+Date:   Mon Apr 26 10:43:43 2021 -0400
+
+    fixed copy board
+
+commit 69dca264d91fbb54d3c138074c5ec33c3cea46b1
+Author: Siyu Li <sli187@jh.edu>
+Date:   Mon Apr 26 00:09:43 2021 -0400
+
+    fixed looping error in UnderAttack
+
+commit aee98b0f07cd01f8cbd23c9d6e87124c80ebe0b2
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Sun Apr 25 23:34:58 2021 -0400
+
+    Changed way pairs were initialized for Move command
+
+commit d6281132728fe4fe883fe50fbb391c368f3a4b09
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Sun Apr 25 22:45:37 2021 -0400
+
+    Adds color to Board display function and fixes minor errors in Game and Board
+
+commit e2124949788d7fccbde85ec3a79d7d5987ded7e6
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Apr 25 19:20:20 2021 -0400
+
+    fix multiple bugs in find position
+
+commit 9c0ffb96a5c1b14bb7439b99cd127cc6bdaf4344
+Merge: cbe7a52 e7e545d
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Apr 25 18:51:09 2021 -0400
+
+    bug in Game.cpp
+
+commit cbe7a52f7acd109b7f61097e932db0c12abc8e37
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Apr 25 18:29:12 2021 -0400
+
+    bug in Board.cpp
+
+commit e7e545df43ead370581854e03e0cceea2b03502f
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Sun Apr 25 15:00:04 2021 -0400
+
+    Finishes the overloaded extraction operator for the game class.
+
+commit d633f0610f172ab18dd0ba3c50ff40fcf47e8736
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sun Apr 25 00:37:17 2021 -0400
+
+    change condition for findposition
+
+commit c917ff614466e06b38cf9b25c7d3a04205b1251b
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sun Apr 25 00:15:44 2021 -0400
+
+    add an if-else condition to check piece in solve attack
+
+commit 061d80f5ebb29387f93e77a55bc31161110b1667
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 14:34:45 2021 -0400
+
+    fixed conflict loss
+
+commit c2286c112ec5f7feca7c8ce8a77af4bf0c956295
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 14:02:48 2021 -0400
+
+    adding helper function returnOcc to access private occ
+
+commit 025ed3eb903360841d350b1cba05907d05e37b65
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 13:36:55 2021 -0400
+
+    new version of Solve attack, having problems with accessing occ
+
+commit e4f6ebf8b315633de779d4bc6762598f098f3058
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 13:05:47 2021 -0400
+
+    solve capture
+
+commit 38d33ca8f9d9e130c242c881c7cc3da064020ef8
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 12:37:56 2021 -0400
+
+    searchPosition Game.cpp
+
+commit 9d82da60ccfb052d2769613b4cd2753a74a6d786
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 12:31:28 2021 -0400
+
+    add MoveLegalCheck
+
+commit 10514e78456c8ec0fd7eba64781c802f78283660
+Merge: 91ccf86 2ab8c7a
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 11:06:23 2021 -0400
+
+    fixed conflict
+
+commit 2ab8c7acedc48af83e27fea8cfea3a1096daaf77
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 10:53:06 2021 -0400
+
+    debug
+
+commit 72433a4e45c0c389370024f635fd1ea65acf98f6
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 10:48:39 2021 -0400
+
+    add makeLegalMove
+
+commit 91ccf86b9723eaf3c0a4ac651bbf5b5e22ea8807
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 10:12:15 2021 -0400
+
+    new Solve Attack function
+
+commit 7496267ae55ae1801c90a6c8fa1fc2d628e4801e
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 10:10:02 2021 -0400
+
+    new Solve Attack function
+
+commit 1bd79f05a78210e8fdb03050eb049a607e12fc3d
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 10:05:37 2021 -0400
+
+    exception change place, now in Gmae
+
+commit 2c236cd78c58a071a01331c108d911e2777b4ef0
+Merge: c793571 78c34be
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 10:02:59 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-final-ecorona2-jluo30-sli187
+
+commit c79357160db0209e0124bfb9a09c7d5bd92e0712
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 09:58:58 2021 -0400
+
+    edit exception
+
+commit 78c34be68d5fe115b42896db13d7f4ca194704a0
+Author: Siyu Li <sli187@jh.edu>
+Date:   Sat Apr 24 09:55:09 2021 -0400
+
+    adding copy constructor and the =operator
+
+commit a936ddfa8da9fd8bcf125f91c74ea82b8db31c17
+Author: Eric Corona <ecorona2@ugrad22.cs.jhu.edu>
+Date:   Sat Apr 24 08:59:40 2021 -0400
+
+    Finishes first half of the Solve Attack function. Checks if the king can move away to avoid checkmate.
+
+commit 06fdad9ab57de9e3401cf51059c0afe76269ce5a
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 02:21:22 2021 -0400
+
+    add stalemate game.cpp
+
+commit 4498e787c88e43b14fb59cf3c87b01fe8e8fd1c9
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 00:53:53 2021 -0400
+
+    make findPosition return list
+
+commit c4beea9848419720da28504d40786695ab93d423
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 00:45:30 2021 -0400
+
+    effeciency improve, small edit
+
+commit d6b9c3af307704b10732ec972471a87698677a1b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 24 00:26:58 2021 -0400
+
+    debug
+
+commit 16e51158f04ec4aa91ac1576b2ac307c4046f718
+Author: Siyu Li <sli187@jh.edu>
+Date:   Fri Apr 23 22:02:39 2021 -0400
+
+    adding helper function
+
+commit 19763c3198310abfe4982e6c5d15b081741c3596
+Author: Siyu Li <sli187@jh.edu>
+Date:   Fri Apr 23 21:59:13 2021 -0400
+
+    using nested for-loop for UnderAttack()
+
+commit 23d96a5fbcbd1a3a7afa3d74a151fc4e4c54334f
+Author: Siyu Li <sli187@jh.edu>
+Date:   Fri Apr 23 00:20:33 2021 -0400
+
+    SolveAttack() helper function added, in_mate(), in_stalemate(), in_check() implemented
+
+commit 70fbaae935ab9d6c84048ce794729f3af53df987
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 22 21:02:20 2021 -0400
+
+    add make_move in_check in Game
+    
+    r
+
+commit 8d4129520871e319cfebc92d7f8eaba3c1626f22
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 22 20:32:41 2021 -0400
+
+    fix bugs
+
+commit 66dc79e7a1aa91cf2d0a627bd3093622066027bf
+Author: Siyu Li <sli187@jh.edu>
+Date:   Thu Apr 22 19:47:07 2021 -0400
+
+    add legal-capture check
+
+commit f2f70c58b0936165e6453fa47058be0ef1060f54
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 22 16:41:29 2021 -0400
+
+    complete Board.cpp
+
+commit d58d9ad6fd3f112d7e35bbf40439ce9ae4fea6a1
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Thu Apr 22 13:01:29 2021 -0400
+
+    add capture shape
+
+commit c222d6b68941616b8a12d887691a038da0becfbc
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 21 07:10:24 2021 -0400
+
+    add main, lack clear exception
+
+commit 4c39ce2932c587f2fd5cf551bf461a89fb2d7554
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Apr 21 00:39:23 2021 -0400
+
+    add all new pieces.cpp
+
+commit ae08b986da43d7773536fc5a2d64ce32d0f27790
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Apr 18 14:32:33 2021 -0400
+
+    Initialized with the starter codes

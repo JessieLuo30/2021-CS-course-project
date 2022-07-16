@@ -1,0 +1,204 @@
+commit 66a2d3eae2cdcf9cc8d7d79b54b895f54d0cfea3
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 24 13:36:42 2021 -0400
+
+    more comments
+
+commit 3d08acae372df608eadaf6bb2517a92799cb1687
+Author: Ting Li <tli79@jhu.edu>
+Date:   Wed Mar 24 13:16:32 2021 -0400
+
+    rewrite the echoing part, avoided repeated echos
+
+commit 0618157942fe020647a7ae9dc8f2598bfae47bc7
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 24 05:54:54 2021 -0400
+
+    add more helper method to control length
+
+commit 72d9fc830b6d58a097d98779b35ab4c40b414ad4
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Mar 23 17:10:26 2021 -0400
+
+    add comments and test
+
+commit d3966a102f55e83b38d8ad0f495d67e5e28cb9ae
+Author: Ting Li <tli79@jhu.edu>
+Date:   Tue Mar 23 13:45:45 2021 -0400
+
+    shortened render_song
+
+commit 3afb828cd453f34bccd00b0a7fc0bc1fb7e0b67b
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 22 23:52:01 2021 -0400
+
+    spacing
+
+commit f80363e8c0bf178430fdea80da49a59f9b6d3c81
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 22 23:50:17 2021 -0400
+
+    Shortened code and added comments
+
+commit a927a2b3b19e05d5640ea1e55ec93d852ae174a0
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 22 16:32:42 2021 -0400
+
+    all works
+
+commit 4bc4e9e18008e94eb16c06bdf9c9300da0a79759
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 22 13:59:00 2021 -0400
+
+    renturn 0
+
+commit 8d8293d52fa7f8be6e2e04a8d01cdbbbb7b30929
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 22 13:34:01 2021 -0400
+
+    Replaced atoi/atof with sscanf
+
+commit d4a2e14d3999abe0a981682b8b83a4d689dbbb15
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 22 12:18:41 2021 -0400
+
+    echo fixed
+
+commit e31f83f14f9c2fd4beffff08b13f4665221397b1
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 22 02:25:19 2021 -0400
+
+    io.c fix
+
+commit cd854c84cf284c0f0e432ecf0affe364498ed9fd
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 22 01:38:32 2021 -0400
+
+    echo fixed
+
+commit d51211134185cf24b465cdd3cce9299e4f4dab06
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Mar 20 22:16:55 2021 -0400
+
+    edit echo
+
+commit 4da1498ced580b504b489a5c5f1406dd506c5f68
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Mar 20 21:20:02 2021 -0400
+
+    edit io.c
+
+commit e9e391aa1835326a3480a371364677bd7247687e
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Mar 20 14:31:38 2021 -0400
+
+    solve bug in envelop
+
+commit 166cf5aba0167aa9b68e033e684882b5c2c0bd80
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Mar 20 11:16:01 2021 -0400
+
+    song works but not same
+
+commit 560a1b9616ee6acf8f808443e8c80a8989221d68
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Mar 19 22:54:43 2021 -0400
+
+    debugging
+
+commit 89ccf1050cfab46b291d6863974c67260cc71bb7
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Mar 19 20:39:22 2021 -0400
+
+    add echo, update song
+
+commit 9f30a9bad4e22672e7622e516b5982b3d401d7a0
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Mar 19 17:28:02 2021 -0400
+
+    makefile working, correct io.c
+
+commit c0faa5ce907fb1470c00692b70adb38a3c5ae054
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 18:29:48 2021 -0400
+
+    sew working
+
+commit 933707fddf4b5b790b30a07dacc401b5493c00b4
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 16:07:42 2021 -0400
+
+    small change on assert
+
+commit 6cbf25119985fc557332030c2f9137d827ec61fb
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 16:04:08 2021 -0400
+
+    finish render_song.c
+
+commit 9267cf4740d06fc18861a78eefafd0942afab66b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 15:39:10 2021 -0400
+
+    more change on rendersong
+
+commit 4a64197c7ceb35e2cf66530461cd90a71fb7506f
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 14:33:58 2021 -0400
+
+    edit render_song.c, not done
+
+commit a0dc0dd99e68a73f22cfdaac463b1eb3a9b80c78
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 17 13:36:36 2021 -0400
+
+    update io.c, make sound
+
+commit 7bbb32d9f57752fd6e606b3b83011671b6a04ef6
+Author: Ting Li <tli79@jhu.edu>
+Date:   Wed Mar 17 11:39:21 2021 -0400
+
+    updated render tone
+
+commit d73bd1ac6a3e4167b85df55230e01986ef327264
+Author: Ting Li <tli79@jhu.edu>
+Date:   Wed Mar 17 11:32:24 2021 -0400
+
+    demo render_tone
+
+commit bc2ae3915760d9fdbcdf85dc42c84cdb68a49765
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 15 11:35:00 2021 -0400
+
+    fixed a minor error
+
+commit b8e3d2e9bd45da846b7d1335ed57f38dc062703a
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 15 11:26:58 2021 -0400
+
+    fixed a small bug
+
+commit f99613821be3e667e87fb82cbb648714e7af9222
+Merge: 90fc284 fdd358c
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 15 11:12:42 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jluo30-tli79
+
+commit 90fc28479e2f3ff0137e6b16ef97ae9a61c4e754
+Author: Ting Li <tli79@jhu.edu>
+Date:   Mon Mar 15 11:07:13 2021 -0400
+
+    updated wave.c
+
+commit fdd358c609b5e977dcadaeed81a0ed8875b5453f
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Mar 9 01:39:25 2021 -0500
+
+    io.c edit
+
+commit a59d403db13e966babdbbb87487f80c30b303dc8
+Author: Ting Li <tli79@jhu.edu>
+Date:   Fri Mar 5 12:04:36 2021 -0500
+
+    Initialized with the starter codes

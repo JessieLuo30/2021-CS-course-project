@@ -1,0 +1,245 @@
+commit a8cb826928a6c7b9ad2d39330e407a769b034c02
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 3 11:20:23 2021 -0400
+
+    all test passed!
+
+commit 4596668ea937ac55d18e2cf5ac72dff3e9e805c2
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 3 11:03:59 2021 -0400
+
+    add README
+
+commit 2f5286cad71cff4f291b688e95bc75d81eda25b9
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 3 10:41:46 2021 -0400
+
+    better format
+
+commit 6d14b3e0a26a478b2a77e0dbfa6574f0b4b7c440
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 3 09:06:58 2021 -0400
+
+    file read debugged
+
+commit 2ebd0aea8d4ab830eee2aea161b30592630a68c7
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Apr 3 04:20:41 2021 -0400
+
+    reload problem
+
+commit c4f59689707f33c8b770c4e14169aa7a86bd308d
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 31 16:29:11 2021 -0400
+
+    segmentation fault
+
+commit 1458e66eec5657d2452ae99107a656bb590021d6
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 31 12:21:22 2021 -0400
+
+    change name to struct
+
+commit d21fa693cd3326239668f9abf0663a698c19996a
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 31 10:09:03 2021 -0400
+
+    before change version
+
+commit be6d802596e57dccd9009178643ba7c7d158f4b7
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 31 04:31:15 2021 -0400
+
+    case and reload bug
+
+commit 2add9f3779aab0fc7c98b730e2b15f660e93e2d4
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Wed Mar 31 03:06:40 2021 -0400
+
+    don't work
+
+commit 6ba545c5aa22d9477b1c8a10aab6b0318f32c465
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Mar 30 06:57:41 2021 -0400
+
+    add two more functions
+
+commit 20d8a9bb69f5d669d9bc7264a270f5998f945951
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 29 22:24:32 2021 -0400
+
+    L function working
+
+commit 86a4848ed0e00c13ba3b9c0fc6b3029ccffb999f
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Mar 28 21:11:16 2021 -0400
+
+    debug errors
+
+commit 6dec0bcf9bf15b74c2e895a9816838a4ea007e5d
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Mar 28 19:05:16 2021 -0400
+
+    add 5 functions
+
+commit 7747d291e03efc6ac83cd05afe17a5794e597d23
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Mar 8 12:59:21 2021 -0500
+
+    add new files, edit io.c
+
+commit a53294d1b7343f84307d424c9f1bed9df0356167
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Feb 23 10:12:03 2021 -0500
+
+    add comments
+
+commit 373dd2f20f7342bc7ccba030f81380c85e9171dc
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Feb 23 09:05:17 2021 -0500
+
+    add name and jhed
+
+commit 3930e549d2c0f53e7ac2d7122e4820b2d07bd9c0
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Feb 23 00:57:16 2021 -0500
+
+    no problem in read_file
+
+commit 3b0a33c92ce87b42af2f73c41cbe202717ac2930
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 23:32:55 2021 -0500
+
+    add test, change Makefile
+
+commit d14fc4fe7d39c3e2fb631f0a458c61c28f8d956b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 22:45:27 2021 -0500
+
+    add README
+
+commit 30ae3e3d70499f9a18b60b08286bdb2963c979c7
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 21:21:01 2021 -0500
+
+    delete old match
+
+commit 0752bda71a29097a62ea3f25c99c29a73ee4247e
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 21:16:31 2021 -0500
+
+    edit test_functions.c
+
+commit 4a1295ba67aeee578b768367b2f1fabbf3f7627b
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 20:54:34 2021 -0500
+
+    finally add some recursion, hope it works
+
+commit 9b6c30d59c58ed79f0d87e8ca3925a0981e726cd
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 08:03:53 2021 -0500
+
+    add \n, hw3.c well
+
+commit 6bb1c4dd401690444a5f80e02036a6eef471ef42
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Mon Feb 22 07:49:56 2021 -0500
+
+    I finally print out something, gonna cry
+
+commit 63f20fad3142290775bb07334ff5c4d41f798cbd
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sun Feb 21 15:10:28 2021 -0500
+
+    update all
+
+commit e85bc3b98c804470d9f6d7e42f140d9ad7172dd8
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Feb 20 22:56:47 2021 -0500
+
+    implement hw3.c
+
+commit 85335edecd9c03956f403027a7d85af8f632fe91
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Feb 20 21:06:31 2021 -0500
+
+    update hw3, edit function.c
+
+commit 7c82fe86e7dab15bc5f02b7dee098131b7033959
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Tue Feb 9 00:48:16 2021 -0500
+
+    add some comments
+
+commit 264e42c97ba8e657223cbbd377c010aa77c157ce
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Feb 5 22:20:43 2021 -0500
+
+    final version
+
+commit ba4795aa2adc6e0ea853d551f0f2d9720f616926
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Feb 5 21:06:16 2021 -0500
+
+    function well
+
+commit d9e1bb5851cd91f336250af87e04834c0d4e615e
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Feb 5 20:49:17 2021 -0500
+
+    almost done!
+
+commit 94881a6a0f787040fef4b3c622368dae3b4780db
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Feb 5 20:15:01 2021 -0500
+
+    message
+
+commit 3408dcd1397e1523f535a13edefd32f6e8f03e0f
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Fri Feb 5 19:25:48 2021 -0500
+
+    hw1 working version
+
+commit 27e4c700f6165d0e07846ef58bdded7465bfdc69
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Jan 30 13:06:17 2021 -0500
+
+    created one.c
+
+commit 119aeaec76fffa29c42bb2e90ea0aeaaa1f4fc40
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Jan 30 11:34:27 2021 -0500
+
+    created three.c
+
+commit a17347cdcb957a219afa375853cbbd18a53ea359
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Jan 30 11:30:17 2021 -0500
+
+    created two.c
+
+commit d346a3584a3eb30354341b69b0f020d007823bf6
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Jan 30 08:49:53 2021 -0500
+
+    updated README
+
+commit ba1906afdbf686da33372533dda4b31771f48e13
+Author: Jiaxin Luo <jluo30@jhu.edu>
+Date:   Sat Jan 30 08:26:55 2021 -0500
+
+    created README
+
+commit 0c6b1c03b5260c1559a4977927c0c4df2a8ad370
+Author: Jessie-ghub <77982805+Jessie-ghub@users.noreply.github.com>
+Date:   Thu Jan 28 21:34:07 2021 +0800
+
+    Create hw0
+
+commit 176721fcf731e7af4312a32e8131924043042f9d
+Author: Jessie-ghub <77982805+Jessie-ghub@users.noreply.github.com>
+Date:   Thu Jan 28 21:33:07 2021 +0800
+
+    one.c
