@@ -1,0 +1,8 @@
+Name: Jessi(Jiaxin) Luo
+JHED ID: jluo30
+
+I started with CTrie.h. I use a boolean variable endpoint to mark whether this node is an endpoint and store the links to the child nodes in a map children where the keys are char values and the values are CTrie * values. clear() is a helper method for the destructor so I can do deallocation not directly in the destructor. output_trie() is a helper method for operator<<, I implemented it according to the pseudo-code provided on assignment rubric.
+
+In CTire.cpp, since map <char, CTrie *> is used multiple times, I make it a date type called childList. Then I implemented the CTrie member functions and friend functions in CTrie.h accordingly. The copy constructor, assignment operator, ^ operator, += operator, and == operator are implemented recursively, while destructor, << (ostream output) operator call a function that is recursive.
+
+The implementation is almost the same for TTrie.h and TTire.inc, except for all char become DataType and all std::string occurrences become std::vector<DataType>.Since now I'm working with vector, I use vector functions like erase and push_back when I need to add or delete node. And the vector output part in output_trie are adjusted according to the rule.
